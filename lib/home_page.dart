@@ -3,7 +3,7 @@ import 'package:task_list_app/app_navigation_bar.dart';
 import 'package:task_list_app/pages/tasks/_view/tasks_page.dart';
 
 // This class does not have to be used. It should be replaced with class
-// handling navigation using Beamer package
+// handling navigation using go_router package
 class HomePage extends StatelessWidget {
   const HomePage({Key? key}) : super(key: key);
 
